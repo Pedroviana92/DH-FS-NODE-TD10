@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "date-fns": "file:node_modules/date-fns",
     "moment": "^2.28.0"
   }
 }
